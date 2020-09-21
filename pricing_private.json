@@ -1,0 +1,71 @@
+{
+    "Main Units":[
+        {
+            "Unit 1":
+            {
+                "name":"Introductions",
+                "chapters":[
+                    {
+                        "name":"Friends and Relationships",
+                        "ConversationalGoals":["Describe What You Plan to Do Next in Your Life","Extend an Invitation","Inquire About Someone's Habits"],
+                        "GrammarGoals":["Form the Imperfect Subjunctive Mood","Learn the Past Tense of the Irregular Verb Ir"]
+                    },
+                    {
+                        "name":"Languages and Origins",
+                        "ConversationalGoals":["Ask and Tell Where Someone is From","Ask Whether Someone Speaks a Language"],
+                        "GrammarGoals":["Learn Simple Negation","Learn to Conjugate the Verb Hablar"]
+                    }
+                ] 
+            },
+            "Unit 2":
+            {
+                "name":"Connections",
+                "chapters":[
+                    {
+                        "name":"Places and Directions",
+                        "ConversationalGoals":["Ask for and Give Directions","Describe Places"],
+                        "GrammarGoals":["Be Introduced to the Imperative Form of Verbs","Learn to Recognize Noun Gender"]
+                    }
+                ] 
+            }
+        }
+    ],
+    "Speciality":[
+        {
+            "1":
+            {
+                "name":"Business",
+                "chapters":[
+                    {
+                        "name":"Business Social",
+                        "ConversationalGoals":["Describe What You Plan to Do Next in Your Life","Extend an Invitation","Inquire About Someone's Habits"],
+                        "GrammarGoals":["Form the Imperfect Subjunctive Mood","Learn the Past Tense of the Irregular Verb Ir"]
+                    },
+                    {
+                        "name":"Business Technique",
+                        "ConversationalGoals":["Learn techniques","Learn profit making"],
+                        "GrammarGoals":["Create understanding","Go with flow"]
+                    }
+
+                ]
+            },
+            "2":
+            {
+                "name":"Partnership",
+                "chapters":[
+                    {
+                        "name":"Partnership Social Demo",
+                        "ConversationalGoals":["Describe What You expect","Ignore Invitation","Ask about profit"],
+                        "GrammarGoals":["Learn lorem ipsum","Learn Learn partnership demo"]
+                    },
+                    {
+                        "name":"Partnership Flaws",
+                        "ConversationalGoals":["learn to say No","Learn to manage loss"],
+                        "GrammarGoals":["Basic pronouns","all the grammatical mistakes"]
+                    }
+
+                ]
+            }
+        }
+    ]
+}
