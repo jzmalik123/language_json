@@ -27,6 +27,22 @@
                         "GrammarGoals":["Be Introduced to the Imperative Form of Verbs","Learn to Recognize Noun Gender"]
                     }
                 ] 
+            },
+            "Unit 3":
+            {
+                "name":"New Unit",
+                "chapters":[
+                    {
+                        "name":"This is chapter 1 ",
+                        "ConversationalGoals":["goal 1","c goal 2"],
+                        "GrammarGoals":["bla bla","ok ok"]
+                    },
+                    {
+                        "name":"This is chapter 2 ",
+                        "ConversationalGoals":["goal 2","c goal 2"],
+                        "GrammarGoals":["to see this add chapter","added a new chapter to unit 3"]
+                    }
+                ] 
             }
         }
     ],
